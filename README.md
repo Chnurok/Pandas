@@ -1,1 +1,1 @@
-# Pandas jupyter notebook
+# Pandas. Чтобы всегда было под рукой
